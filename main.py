@@ -1,0 +1,1 @@
+print("sample projec just for understanding the git hub")
